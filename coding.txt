@@ -1,9 +1,15 @@
 public static void truongquoctrong1(){
 	return false;
 }
+public static void trongtq1(){
+	return false;
+}
 public static void truongquoctrong1111111111111111(){
 	return true;
 }1
+public static void truongquoctrong600(){
+	return true;
+}
 public static void truongquoctrong11(){
 	return true;
 }
