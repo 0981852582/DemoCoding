@@ -4,3 +4,6 @@ public static void truongquoctrong1(){
 public static void truongquoctrong2(){
 	return true;
 }
+public static void truongquoctrong4(){
+	return true;
+}
