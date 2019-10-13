@@ -1,6 +1,9 @@
 public static void truongquoctrong1(){
 	return false;
 }
+public static void truongquoctrong11(){
+	return true;
+}
 public static void truongquoctrong60(){
 	return true;
 }
@@ -16,6 +19,9 @@ public static void truongquoctrong5(){
 public static void truongquoctrong8(){
 	return true;
 }
+public static void truongquoctrong9(){
+	return true;
+}
 public static void truongquoctrong7(){
 	return true;
 }
@@ -24,6 +30,12 @@ public static void truongquoctrong50(){
 	return true;
 }
 public static void truongquoctrong3(){
+	return true;
+}
+public static void truongquoctrong10(){
+	return true;
+}
+public static void truongquoctrong12(){
 	return true;
 }
 public static void truongquoctrong4(){
