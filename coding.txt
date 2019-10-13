@@ -6,7 +6,7 @@ public static void trongtq1(){
 }
 public static void truongquoctrong1111111111111111(){
 	return true;
-}2
+}
 public static void truongquoctrong600(){
 	return true;
 }
@@ -50,3 +50,4 @@ public static void truongquoctrong12(){
 public static void truongquoctrong4(){
 	return true;
 }
+// the end
