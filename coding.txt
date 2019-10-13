@@ -1,6 +1,9 @@
 public static void truongquoctrong1(){
 	return false;
 }
+public static void trongtq2(){
+	return false;
+}
 public static void trongtq1(){
 	return false;
 }
@@ -51,3 +54,4 @@ public static void truongquoctrong4(){
 	return true;
 }
 // the end
+// The end 2
