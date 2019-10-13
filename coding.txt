@@ -10,10 +10,16 @@ public static void truongquoctrong6(){
 public static void truongquoctrong5(){
 	return true;
 }
+public static void truongquoctrong9(){
+	return true;
+}
 public static void truongquoctrong7(){
 	return true;
 }
 public static void truongquoctrong3(){
+	return true;
+}
+public static void truongquoctrong10(){
 	return true;
 }
 public static void truongquoctrong4(){
